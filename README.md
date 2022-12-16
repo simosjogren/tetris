@@ -1,4 +1,1 @@
-# projects
-Including:
-
-C++ Tetris -project (5/2020)
+# C++ Tetris project
