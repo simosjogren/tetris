@@ -2,4 +2,4 @@
 
 Including .o (Makefile) -files
 
-![simo-tetris](https://github.com/simosjogren/tetris/assets/50803295/d90a2b92-c060-4e36-9753-3b4b86f043ec)
+![simo-tetris](https://github.com/simosjogren/tetris/assets/50803295/6240791b-88d5-40a3-b410-f65d0f375e1d)
